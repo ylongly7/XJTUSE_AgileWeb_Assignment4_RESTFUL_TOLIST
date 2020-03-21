@@ -1,0 +1,11 @@
+{
+  "name": "todolist",
+  "description": "XJTUSE_AgileWeb_Assignment4_RESTFUL_TOLIST",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "moment": "^2.24.0",
+    "supervisor": "^0.12.0"
+  }
+}
